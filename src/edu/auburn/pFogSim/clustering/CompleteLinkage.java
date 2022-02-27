@@ -27,7 +27,7 @@ package edu.auburn.pFogSim.clustering;
  */
 public class CompleteLinkage extends Linkage {
 	
-	//main.
+	//main..
     /**
      * Constructor.
      * @param proximity  the proximity matrix to store the distance measure of
