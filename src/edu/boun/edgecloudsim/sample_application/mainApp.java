@@ -48,7 +48,7 @@ public class mainApp {
 		//enable console output and file output of this application
 		SimLogger.enablePrintLog();
 		
-		int iterationNumber = 1; // index for the list of n scenarios in properties file is from 0..n-1
+		int iterationNumber = 0; // index for the list of n scenarios in properties file is from 0..n-1
 		String configFile = "";
 		String outputFolder = "";
 		String outFolder2 = "";
